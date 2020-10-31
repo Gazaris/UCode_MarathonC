@@ -1,11 +1,11 @@
 <head>
     <p align="center">
-        <h2 align="center">This is a repository for tasks of UCODE marathon done by me, such as Sprints, Races and Checkpoints. You can find our Endgame <a href="https://github.com/PAXANDDOS/UCODE-Endgame-C" target="_blank">here.</a></h2>
+        <h2 align="center">This is a repository for tasks of UCODE marathon done by me, such as Sprints, Races and Checkpoints. You can find our Endgame <a href="https://github.com/PAXANDDOS/UCODE-Endgame-C"  >here.</a></h2>
     </p>
 </head>
 
 <body>
-    <table width="100%" border="0" cellpadding="4" align="left">  
+    <table align="center" width="100%" border="0" cellpadding="4">
         <tr>
             <th>Name</th>
             <th>Description</th>
